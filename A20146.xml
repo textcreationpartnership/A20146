@@ -1,0 +1,568 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Epithalamion in nuptiis generosissimorum Iacobi comitis Perthani, Domini Drommondi, Baronis Stobhalliæ, &amp;c. &amp; Isabellae, unicæ Roberti comitis Wintonij, Domini Setonii &amp;c. fili[a]e. Fundebam Thomas Dempsterus a Muresk. I. V. Doctor Scoto-Britannus</title>
+            <author>Dempster, Thomas, 1579?-1625.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1608</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A20146</idno>
+            <idno type="STC">STC 6580</idno>
+            <idno type="STC">ESTC S119125</idno>
+            <idno type="EEBO-CITATION">99854332</idno>
+            <idno type="PROQUEST">99854332</idno>
+            <idno type="VID">19748</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A20146)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 19748)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1376:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Epithalamion in nuptiis generosissimorum Iacobi comitis Perthani, Domini Drommondi, Baronis Stobhalliæ, &amp;c. &amp; Isabellae, unicæ Roberti comitis Wintonij, Domini Setonii &amp;c. fili[a]e. Fundebam Thomas Dempsterus a Muresk. I. V. Doctor Scoto-Britannus</title>
+                  <author>Dempster, Thomas, 1579?-1625.</author>
+               </titleStmt>
+               <extent>[6] leaves   </extent>
+               <publicationStmt>
+                  <publisher>Excudebat Robertus Charteris typographus Regis,</publisher>
+                  <pubPlace>Edinburgi :</pubPlace>
+                  <date>MDCVIII [1608]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of the original in the University of Edinburgh. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="lat">lat</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Perth, James Drummond, --  Earl of, ca. 1580-1611.</term>
+               <term>Perth, Isabel Drummond, --  Countess of, b. 1593.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="lat">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:19748:1"/>
+            <!-- PDF PAGE 29 -->
+            <pb facs="tcp:19748:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 29 -->
+            <p>EPITHALAMION IN NVPTIIS GE<g ref="char:EOLhyphen"/>NEROSISSIMORVM IACOBI COMITIS Perthani, Domini Drommondi, Baronis Stobhal<g ref="char:EOLhyphen"/>liae, &amp;c. &amp; ISABELLAE, unicae ROBERTI <hi>CO<g ref="char:EOLhyphen"/>mitis Wintonij, Domini Setonii &amp;c. filiae.</hi>
+            </p>
+            <p>FVNDEBAM THOMAS DEMPSTERVS a Muresk. I. V. Doctor Scoto-Britannus.</p>
+            <figure>
+               <head>IVSTITIA.</head>
+               <head>RELIGIO<g ref="char:punc">▪</g>
+               </head>
+               <q>SVVM CVIQUE</q>
+               <q>DEVM COLE</q>
+               <q>HIS SVFFVL<g ref="char:EOLhyphen"/>TA DVCANT.</q>
+               <p>H C</p>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <hi>EDINBVRGI</hi> EXCVDEBAT ROBERTVS CHARTERIS Typographus Regis. MDCVIII.</p>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:19748:2"/>
+            <!-- PDF PAGE 30 -->
+            <head>IN THOMAE DEMPSTERI EPITHALAMION.</head>
+            <l>PEniculo Venerem Cois depinxit Apelles,</l>
+            <l>Attica Moeonidae quem aequiparavit apes.</l>
+            <l>Dempſterus Venerem redivivam carmine fingit,</l>
+            <l>Moeonidae ut cedat, cedat Apellis opus.</l>
+            <closer>
+               <signed>IOAN. ROSA.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="epithalamium">
+            <pb facs="tcp:19748:2"/>
+            <!-- PDF PAGE 30 -->
+            <head>EPITHALAMION IN NVPTIIS GE<g ref="char:EOLhyphen"/>NEROSISSIMORVM IACOBI COMITIS Perthani. Domini Drommondi, Baronis Stobhal<g ref="char:EOLhyphen"/>liae, &amp;c. &amp; ISABELLAE, unicae ROBERTI <hi>CO<g ref="char:EOLhyphen"/>mitis Wintonij, Domini Setonii &amp;c. filiae.</hi>
+            </head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">L</seg>AETA oculos, ornata comas, nu<g ref="char:EOLhyphen"/>data papillas</l>
+               <l>Cypris, Acydalios lucos egreſſa, ſe<g ref="char:EOLhyphen"/>cundi</l>
+               <l>Regna Iovis, cunaſque ſuas, re<g ref="char:EOLhyphen"/>rumque parentem</l>
+               <l>Nerea, cognataſque parans inviſe<g ref="char:EOLhyphen"/>re nymphas</l>
+               <l>Ibat, olorinis devecta per aera bigis.</l>
+               <l>Quas quondam inſano nimium devinctus amore</l>
+               <l>Mulciber, uxori gemmis variarat, &amp; auro,</l>
+               <l>Mirandaque ipſis divis caelarat ab arte.</l>
+               <l>Et quacunque volat currus, qua nubila ſignat</l>
+               <l>Orbita, fragrantes pingunt violaria campos,</l>
+               <l>Totaque paeſtano veſtitur terra decore.</l>
+               <l>Fraena regit Levitas, &amp; laeta fronte luventas</l>
+               <l>Ducit aves, &amp; molle quatit per colla flagellum.</l>
+               <l>His Error, timidiſque, favens Audacia votis</l>
+               <l>Accedunt comites, &amp; ſpinoſo, agmine juncto,</l>
+               <l>Curaſatellitio, preſſaque Silentia voce,</l>
+               <l>Spes cupidae, blandaeque Preces, Nutuſque loquaces,</l>
+               <l>Et gravis Anxietas, &amp; Luxusprodigus auri,</l>
+               <l>Oriaque, &amp; ſpreto Perjuria numine divum,</l>
+               <l>Nec procul Inſidiae, Pallorque, &amp; Luctus amictus</l>
+               <l>Dilanians, pannoſa gradus adiungit Egeſtas.</l>
+            </lg>
+            <lg>
+               <l>Ante rotas, pennata cohors, coit agmen Amorum,</l>
+               <l>
+                  <pb facs="tcp:19748:3"/>
+                  <!-- PDF PAGE 31 -->
+Furtiuo occultae quos edunt pignore nymphae.</l>
+               <l>Hic telis nervoque minax, hic lampade pollens,</l>
+               <l>Captivam impellunt mentem, atque in retia ducunt,</l>
+               <l>Hic affatu blando inſpirat in oſſa furotem,</l>
+               <l>Mille aevo ſimiles, uec forma diſpare fratres,</l>
+               <l>Nudi omnes, alatiomnes, ac lumine caſſi,</l>
+               <l>Vt matri placeant glomerata nube feruntur,</l>
+               <l>Et picturato deſcribunt aera gyro.</l>
+               <l>Eſt tamen ante alios forma praeſtante Pyropus,</l>
+               <l>Ore nitens pulchro, collaudanduſque juventa.</l>
+               <l>Hic ſpeculum dominae praefert<g ref="char:punc">▪</g> quo ſaepe recurſet</l>
+               <l>Oris honos, &amp; ſaepe decens varietur imago,</l>
+            </lg>
+            <lg>
+               <l>Iamque erat ad littus ventum, cum molliafeſe</l>
+               <l>Marmora ſubſternunt, nec jam Ceyce perempto</l>
+               <l>Ingemit Halcione, ſed continet Aeolus auras,</l>
+               <l>Nec furit inſanus Boreas memor Orithiyae.</l>
+               <l>Praſto erat &amp; Triton, biiugo delphine ſuper bus,</l>
+               <l>Neptuni liquidas dominam vecturus in aulas.</l>
+               <l>Colla iugo ſubduxit olor, paphiaeque volucre<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>Exultant, paſſimque in ſicco littore ludunt:</l>
+               <l>Cum ſubitus iuvenum plauſus, laetique tumultus</l>
+               <l>Arge menta deam invitant, cum flamine crebro</l>
+               <l>Turbidus<g ref="char:punc">▪</g> apparet pictis argenteus alis</l>
+               <l>Filius, &amp; iam verno Hymeneus flore revinctus.</l>
+               <l>Hunc comitem ſacrorum, aſſertoremque pudoris</l>
+               <l>Cecropidae thalami numen fecere iugalis.</l>
+            </lg>
+            <lg>
+               <l>Illa prior, quae tam manifeſto gaudia vultu</l>
+               <l>Apportas dilecte puer? num Latmia Phoeben</l>
+               <l>Rurſus in antra trahis? fratrem aut fugiente puella</l>
+               <l>Praecipiti peneia rapis per deuia curſu?</l>
+               <l>An dominum coeli mutatum in cornua Tauri</l>
+               <l>Induis, aut Satyri faciem? ſtygiique latebras</l>
+               <l>Pertentans ſolii, manes, fortiſque ſupremae</l>
+               <l>Here dem, in ſuperas educis luminis auras,</l>
+               <l>
+                  <pb facs="tcp:19748:3"/>
+                  <!-- PDF PAGE 31 -->
+Vt velit Ennaei genialia foedera lecti?</l>
+               <l>Certe aliquid magnum eſt, quod ſic feſtinus anhelas,</l>
+               <l>Nec fruſtra vacuus telis, arcuque remiſſo</l>
+               <l>Nate venis. Fixo hic in terram lumine, mater</l>
+               <l>Nunquam laetitiae tanta, inquit, cauſa, nec unquam</l>
+               <l>Poſt bella, emeritus redii majore triumpho.</l>
+            </lg>
+            <lg>
+               <l>Progeniem noſti Drommondae ſtirpis honoram</l>
+               <l>Nec te antiqua fugit Setonae gloria gentis:</l>
+               <l>Has ego coniunxi, ſparſiſque in pectora telis,</l>
+               <l>Legibus ut thalami vellent parere coegi.</l>
+               <l>Illa rudi iaculo perſtricta, hic lampade tota</l>
+               <l>Accepit gratum reſolutis oſſibus ignem.</l>
+               <l>Qualiter Aequaevo religatam palmite vitem</l>
+               <l>Vlmus obit, iungenſque nemus, complectitur arct<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>Brachia dilecti trunci, dum fertilis adſit</l>
+               <l>Autumnus, ſocios gaudens geſtare racemos,</l>
+               <l>Talis erit Iuvenum certo concordia nexu,</l>
+               <l>Non hederae amplexus, non vincent baſia conchae,</l>
+               <l>Vtraque digna domus, tituliſque inſignis auitis</l>
+               <l>Praeradiat ſplendore pari, nec dicere promptum,</l>
+               <l>Quae prior aut meriti menſura, aut temporis aevo.</l>
+            </lg>
+            <lg>
+               <l>Drommondos erexit avos quondam inclyta virtus</l>
+               <l>Caſibus in duris, tum cum truculentior hoſtis</l>
+               <l>Arma Caledonios inferret iniqua per agros,</l>
+               <l>Sanguineas Bellona faces, haſtaſque vibraret</l>
+               <l>Inſano Mavors ſtrepitu, fluvioſque cruore</l>
+               <l>Mutans, caeruleo miſiſſet nuntia patri,</l>
+               <l>Heu! ſaeva, infectis truncata cadavera rivis,</l>
+               <l>Inde favor certus longinqua in ſaecula regum.</l>
+            </lg>
+            <lg>
+               <l>Ecce autem quaerenda fuit, quae ventre beato</l>
+               <l>Ederet haeredem ſceptri, iam certa per omnes</l>
+               <l>Vt mos, Europae diſcurrit cera potentes,</l>
+               <l>Nuntia formoſi vultus, tabulaeque loquaces</l>
+               <l>
+                  <pb facs="tcp:19748:4"/>
+                  <!-- PDF PAGE 32 -->
+Nativum exhibuere decus, ſed principis ardor</l>
+               <l>Non ultra Oceani fines, ſua regna, vagatur.</l>
+               <l>Digna Anabella thoris legitur regalibus una,</l>
+               <l>Olim Ferguſio magnos paritura nepotes,</l>
+               <l>Ardentes quorum velarent tempora gemmae,</l>
+               <l>Quas neque Septimius princeps, neque bellicus horror</l>
+               <l>Saxonis, aut motis temeravit Pictus in armis.</l>
+               <l>Ex hac invictum ducis genus inclyte princeps,</l>
+               <l>A quo magna petit jamdudum Europa, Britannus</l>
+               <l>Cui primo mundus juncta ditione cohaeret,</l>
+               <l>Qui Scotum atque Anglum nullo diſcrimine nectis,</l>
+               <l>Vt laetata ſuum ſubmittat Iernia ſceptrum,</l>
+               <l>Forſitan &amp; fines alſo ſub ſole jacentes.</l>
+               <l>Qui ſi doctrinam ſpectes, contendis Homero.</l>
+               <l>Si magnos animi motus, non cedis Achilli.</l>
+            </lg>
+            <lg>
+               <l>Se reliquae jactent gentes quod nomina adornet</l>
+               <l>Sola virum virtus, cum ſaev us praelia Mavors</l>
+               <l>Poſcit, &amp; alterno tuba clangit triſtia cantu;</l>
+               <l>Vnica faemineo domus haec decorata pudore</l>
+               <l>Clara per Arctoas diffundit ſemina gentes;</l>
+               <l>Atque ideo, genitrix, charum hoc mihi ſte<g ref="char:cmbAbbrStroke">̄</g>ma, tuiſque</l>
+               <l>Militat obſequijs, paphioque inſervit honori.</l>
+            </lg>
+            <lg>
+               <l>Setonos manifeſta fides, cladeſque ſuorum</l>
+               <l>Erigit, &amp; proceres inter locat ordine primo,</l>
+               <l>Ex quo Malcolmus diſtinxit nomine certo</l>
+               <l>Magnates, terras illis, &amp; jura daturus.</l>
+               <l>Illi arces Drumfriſa tuas, fineſque Brigantum,</l>
+               <l>Invicti tumulum Galdi, tractuſque Silurum,</l>
+               <l>Virtute eximia defendere fortiter auſi,</l>
+               <l>Dum quateret praeceps noſtrum diſcordia mundum,</l>
+               <l>Ante duces alios, &amp; tum unica fulmina belli.</l>
+               <l>Dicite Clydſdalij putres ut vomeris unci</l>
+               <l>Diſſiliant ictu galeae? raſtriſque retuſis</l>
+               <l>Oſſa peremptorum reſonent? haec funera Scotus,</l>
+               <l>
+                  <pb facs="tcp:19748:4"/>
+                  <!-- PDF PAGE 32 -->
+Setono ductore dedit, ſcit Glotta cruore</l>
+               <l>Decolor, &amp; Scoticae pridem Tueda arbiter ore.</l>
+            </lg>
+            <lg>
+               <l>Illius ad ripas, dum regis juſſa capeſſit</l>
+               <l>Indubitata ſui, dum muros ſtrenuus olim</l>
+               <l>Propugnat Bervica tuos, duo pignora junctim</l>
+               <l>Ante oculos, crucibus figi videre ſub altis</l>
+               <l>Infoelix pater, infortunatiſſima mater,</l>
+               <l>Lumine ni ſicco facinus ſpectaſſet uterque,</l>
+               <l>Illa prior pariturum uterum, divoſque ſecundos</l>
+               <l>Clamabat, viridemque ſibi ſupereſſe iuventam,</l>
+               <l>Nectanti prodenda ideo commercia regni.</l>
+               <l>Ille ſtudens miſero civem praeponere patri,</l>
+               <l>Servavitque urbem, ſervataque urbe, coronam.</l>
+               <l>I am Brutum conferre file ſuperata vetuſtas.</l>
+               <l>Enecatille ſuos, meritos, ne perderet urbem.</l>
+               <l>Innocuos hic occidir, ne proderet urbem,</l>
+            </lg>
+            <lg>
+               <l>Longa dehinc ſeries comitum, longuſque nepotum</l>
+               <l>Ordo fluit, dum <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ura domus, &amp; frena recepit</l>
+               <l>Sponſae avus, ante alios tanta virtute relucens,</l>
+               <l>Aſtra minora premit quanto fulgore Diana,</l>
+               <l>Cum pleno cornu fraternis aemula flammis</l>
+               <l>Emicat, &amp; ſocium jam tum partitur olympum.</l>
+               <l>Ille fagacem animum, magnique capacia geſtans</l>
+               <l>Pectora conſilij, dignus cui pondera regni</l>
+               <l>Credenda, &amp; tantae commendarentur habenae,</l>
+               <l>Vnus erat, cui rex partiri gaudia ſuetus</l>
+               <l>Partirique metus, legati nomine, francas</l>
+               <l>Intravit, mandata ferens regalia, terras,</l>
+               <l>Liligeri renovaturus concordia regni</l>
+               <l>Faederanobiſcum, nam magnis pronubus actis</l>
+               <l>Franciſco iu<g ref="char:cmbAbbrStroke">̄</g>xit Mariam, plenoque favore</l>
+               <l>Inde redit regum. Socium comitemque laborum</l>
+               <l>Duxit Alexandrum, qui magna mente diſerti</l>
+               <l>Spem patris implevit natus, quem Daunias ora,</l>
+               <l>
+                  <pb facs="tcp:19748:5"/>
+                  <!-- PDF PAGE 33 -->
+Et ſeptem geminas muro quae protegit arces,</l>
+               <l>Saepe admirata eſt, patriae columenque futurum,</l>
+               <l>Splendoremque domus quondam, cui prima ſenatus</l>
+               <l>Munera purpureus digno deferret honoris,</l>
+               <l>Et primum a magno veneretur Scotia rege,</l>
+               <l>Tanto alios virtute parantem vincere, quanto</l>
+               <l>Nobilitate premit reliquos, &amp; ſanguinis ortu.</l>
+               <l>Nec jam patre minor, qui vinci gaudet ab illo.</l>
+               <l>Aegea ſic Theſeus ſic Pelea vincit Achilles.</l>
+            </lg>
+            <lg>
+               <l>Quidni ergo, genitrix, jungas, quos ſtemmata jungu<g ref="char:cmbAbbrStroke">̄</g>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>Quos aetas formaeque tenor? namque hujus, &amp; hujus</l>
+               <l>Gratia tanta beat vultus, ut talia priſcis</l>
+               <l>Corpora ſemideis dederit non pagina vatum.</l>
+               <l>Illa pedes Thetidis, ulnas Iunonis, ocellos</l>
+               <l>Poene tuos ſuperat, collecta modeſtia frontis</l>
+               <l>Dianae non ſuccumbit, molliſque decorae</l>
+               <l>Margo comae, &amp; blando ſuffuſus ſanguine candor</l>
+               <l>Praeterit antiqui cunctas heroidas aevi.</l>
+               <l>Ingenuos taceo mores, &amp; amabile mentis</l>
+               <l>Submiſſae ſtudium, qualem ſi ſaecla tuliſſent</l>
+               <l>Priſtina, non blandas paſtor tentaſſet Amyclas</l>
+               <l>Dardanus, egregioſque ad bella citaſſet Achivos.</l>
+               <l>Nec tua ſecuro caepiſſes praemia voto</l>
+               <l>Laudatae formae, nec dura lege, procorum</l>
+               <l>Concilium celebraretur, Piſiſque tremendus</l>
+               <l>Curreret Oenomaus, nec te Hippodamia ſuperbo</l>
+               <l>Axe Pelops veheret, nec te jam Atalanta fugacem</l>
+               <l>Falleret Hippomanes pomo, nec vellet laſon</l>
+               <l>Colchida ab irato raptam divellere patre</l>
+               <l>Nec pulchri Herodice peteret certamina curſus,</l>
+               <l>Sorderet roſeis Tithono Aurora quadrigis.</l>
+               <l>Nec Phrygiae cuperet connubia perdite Achilles,</l>
+               <l>Laertes dominum caperet nec forma Calypſus.</l>
+            </lg>
+            <lg>
+               <l>Spectandae huic etiam formae contingit &amp; oris</l>
+               <l>
+                  <pb facs="tcp:19748:5"/>
+                  <!-- PDF PAGE 33 -->
+Pulcher honor, placidaque armatur fronte, virili</l>
+               <l>Lege pudor, terrore genus, ſexumque fatenti,</l>
+               <l>Cynthia ut Hippolytum poſſet damnare reductum,</l>
+               <l>Sive fugacis equi expertis moderetur habaenis</l>
+               <l>In gyro ſtudium, ſuperat non Theſſalus illum,</l>
+               <l>Non gemmata niger qui fert velamina Medus.</l>
+               <l>Sive fagittandi vocet area, Parthus inanem</l>
+               <l>Traderet huic arcum, Suſiſque ſilentibus, iret</l>
+               <l>Victus Achaemenius, nec Cretes nomen haberent.</l>
+               <l>Sive lubet blandum alternis errare choraeis,</l>
+               <l>Etmotu trepidare levi, terramque tenello</l>
+               <l>Sollicirate pede, ſeu libera nexibus, unâ</l>
+               <l>Virgo eat, aut ſolus ſpatio decurrat aperto,</l>
+               <l>Aut junctim, capreas, ſaliens, imitetur in altum,</l>
+               <l>Gloria prima illuſcit fulvo concolor auro</l>
+               <l>Hoc Tagus, &amp; juvenem jam tum mirate Philippe es,</l>
+               <l>Ad te cum regis ferret mandata Britanni</l>
+               <l>Multa ſuper pacis leges, &amp; foedera dictans</l>
+               <l>Legatus: comes hic dignus datur unus cunti,</l>
+               <l>Cum nondum lanugo tenella inveſtijtora,</l>
+               <l>Vt junctum credas bromium radiare tonanti.</l>
+            </lg>
+            <lg>
+               <l>Hic quoties nymphae ſtupuiſtis Iberides, illum</l>
+               <l>Lento ſaepe gradu, celerique volumine ſaepe,</l>
+               <l>Huc illuc varijs errantem ambagibus, oris</l>
+               <l>Turbine confuſum, &amp; pulchro ſudore madentem,</l>
+               <l>Quando blanda hilares iteraret tibia cantus.</l>
+               <l>Multae illic, memini ſponſum optavere, Britannae</l>
+               <l>Multae illum cupiere procum, ſed mente pudica</l>
+               <l>Reſtitit, &amp; patrio ſe conſervavit amori,</l>
+               <l>Amplexuque ISABELLA tuo, nec vile laboris</l>
+               <l>Eſt fateor, meriti pretium, te propter, &amp; aurum,</l>
+               <l>Te propter contempſit opes, quas Angla dediſſet</l>
+               <l>Maiores, ante has te vel cupiiſſet inanem.</l>
+               <l>Martiatela manu, ſimulachraque ludicra belli.</l>
+               <l>
+                  <pb facs="tcp:19748:6"/>
+                  <!-- PDF PAGE 34 -->
+Armatoſque choros tenret, iuraveris eſſe</l>
+               <l>Mar<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>em ipſum, tanta eſt doctae experientia dextrae,</l>
+               <l>Sive ictus vitare paret, ceu reddere certos.</l>
+               <l>Talis erat Pollux, talis Tyrinthius, orbem</l>
+               <l>Edomuit, primae ut ſe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pſit lanugo iuventae.</l>
+            </lg>
+            <lg>
+               <l>Non referam, ut, ſectis qua lata Lutetia muris</l>
+               <l>Gyratas ſpectat mediis penetralibus undas</l>
+               <l>Torrentis Sequanae, ſub praeceptore diſerto</l>
+               <l>Duravit ferratam hyemem, &amp; ſudavit ibidem</l>
+               <l>Aeſtatem fervore pari, nullumque remiſit</l>
+               <l>Officium. Stagyraeas victura latebras</l>
+               <l>Mens avida, ingeniumque capax. Hic quicquid honoro</l>
+               <l>Carmine, vel Smyrnae nobis mandavit alumnus,</l>
+               <l>Divite vel latii vena cecinere Poetae,</l>
+               <l>Hauſerat, &amp; primos Muſis ſacraverat annos.</l>
+            </lg>
+            <lg>
+               <l>Indomitae Pelidae irae, vis neſcia flecti,</l>
+               <l>Invictuſque Aiax, &amp; dux Agamemno, potentis</l>
+               <l>Infoelix aurum Priami, pugnaeque deorum,</l>
+               <l>Bellaque, &amp; exhauſti fatali Marte labores,</l>
+               <l>Quatriplici monſtranda iugo latet inſula ponto,</l>
+               <l>Cyclopum domus, &amp; Cereri gratiſſima rellus,</l>
+               <l>Qua iacet arentes denudans Africa campos,</l>
+               <l>Qua Numidae reſerant tractus ſitientis arenas,</l>
+               <l>Qua colitur duris Hiſpania nota triumphis,</l>
+               <l>Qua rigor aeternus montes contriſtat, &amp; ora</l>
+               <l>Danubii longe oſtentat, qua Gallia pugnax</l>
+               <l>Indigenas ditat foelici meſſe colonos,</l>
+               <l>Quaque habitat longi fraenator Sarmata conti,</l>
+               <l>Pannoniuſque redit defoſſo concolor auro,</l>
+               <l>Omnia nota illi, tenerae vel flore iuventae.</l>
+            </lg>
+            <lg>
+               <l>Nec ſatis, unde tonent nubes? quae ducat origo</l>
+               <l>Fulgura? cur pontus preſcriptis aeſtuet horis?</l>
+               <l>Quae cauſa obſcuret Phoebum? quonam igne Cometa</l>
+               <l>Ardeat, &amp; pavidis feralia gentibus arma</l>
+               <l>
+                  <pb facs="tcp:19748:6"/>
+                  <!-- PDF PAGE 34 -->
+Inferat, &amp; medijs acies committat in aſtris?</l>
+               <l>Vnde fluant venti? fluvios an viſcere mittat</l>
+               <l>Terra ſuo? quo fit pacto vix nube ſoluta?</l>
+               <l>Ludus erat puero, haec, &amp; ſcire, &amp; voce referre.</l>
+               <l>Quid ceſſas igitur, juvenum quid vota moraris?</l>
+               <l>Dignus uterque tuo praeſenti numine certe eſt.</l>
+               <l>Dixit, &amp; amplexae ſurrexit ad oſcula matris.</l>
+            </lg>
+            <lg>
+               <l>Subijcit haec, optata quidem mihi, nate reportas</l>
+               <l>Nuntia, &amp; ipſa adero quantam me turba per aras</l>
+               <l>Humana Idalias veneratur ſupplice cultu,</l>
+               <l>Aut videt in magno quae clauditur aequore Cypros.</l>
+               <l>Et vos, qui matris pharetras optatis habere,</l>
+               <l>Munera, vos pueri, diverſis partibus ite,</l>
+               <l>Ite citi, volucrique Euros praevertite penna.</l>
+               <l>Et nymphas quocunque latent ſub gurgite, noſtris</l>
+               <l>Excite imperijs, feſto huic &amp; adeſſe iubete,</l>
+               <l>Quo non in terris melior, ceu marmore dulci</l>
+               <l>Claudant ſtagna illas, ceu lympha lene fluente</l>
+               <l>Poſſideant fluvii, ceu fons argenteus orbe</l>
+               <l>Detineat puro, aut ſalſis Euripus in undis</l>
+               <l>Tergeminus. Vos occiduae penetrate receſſus</l>
+               <l>Tethyos, unde genus genti, qua nutrit Ierne</l>
+               <l>Foelices Cereri glebas, vos ite ſub ortum</l>
+               <l>Belligeri qua regna ſoli creſcentibus undis</l>
+               <l>Verberat Oceanus, vos qua gravis Vrſa nivali</l>
+               <l>Parrhaſis aſpectu contriſtat frigore pontum,</l>
+               <l>Et prius ignotam Romano milite Thulen.</l>
+            </lg>
+            <lg>
+               <l>Efficite ut coeant, quas glauco Speius antro,</l>
+               <l>Quas Ithanus habent, quas Bogius, &amp; freta ſacra</l>
+               <l>Pictorum, quas Deuranus non ultima regni</l>
+               <l>Gloria, ſed prineeps undarum in partibus illis,</l>
+               <l>Arcibus impoſitis foelix, portuque decorus:</l>
+               <l>Quae Donam Deiamque habitant, ubi divite cultu</l>
+               <l>Regnat, &amp; una ſibi fecit ſacraria Pallas,</l>
+               <l>
+                  <pb facs="tcp:19748:7"/>
+                  <!-- PDF PAGE 35 -->
+Et gemina aereas arces Abredonia tollit,</l>
+               <l>Quae non Maſſiliae, quae non ſuccumbat Athaenis,</l>
+               <l>Eſcorum quas ripa tenet, quas irvenis urna,</l>
+               <l>Devehit ingenti quas Forthius amne quietus,</l>
+               <l>Quas Tueda, &amp; quas Glotta humentibus educat ulvis,</l>
+               <l>Et ſi quae invento perfundunt ora metallo,</l>
+               <l>Argenti qua vena fluit, qua Scotia gaudet</l>
+               <l>Ditior, &amp; Lydij fontes iam provocat Hermi,</l>
+               <l>Quas aluere ſua lymphae Setonides aula,</l>
+               <l>Quae placido tractu convallem, hortoſque pererrant</l>
+               <l>Alcinous quos miretur, blandoque ſuſurro</l>
+               <l>Praetereunt Francam referentia maenia formam,</l>
+               <l>Quae conceſſa tenes virtute &amp; ſtirpe Georgi,</l>
+               <l>Germanus ſponſae, &amp; tantae ſpes optima gentis.</l>
+               <l>Praecipue ante alias adſint, quas Taius audit</l>
+               <l>Caerulus, &amp; glauca vittatus arundine frontem</l>
+               <l>Ludentes ſpectat, qua ſponſi maenia multis</l>
+               <l>Exurgunt poſſeſſa atavis, ubi nomine honoro</l>
+               <l>Pertha potens, apicem turritum ad ſidera tollit,</l>
+               <l>Atque hince muris campos ſpeculatur amaenos,</l>
+               <l>Hinc, gratam Neptune tibi, navalia, ſedem.</l>
+            </lg>
+            <lg>
+               <l>Interea geminas tu Gratia necte coronas,</l>
+               <l>Pinea fax vobis, pueri geſtetur, &amp; ignem</l>
+               <l>Iungite aquae, vos ſollicitum tectura pudorem</l>
+               <l>Flammea virgineis, ricamque aptate capillis,</l>
+               <l>Ipſa ego confeſſu medio procerum populique</l>
+               <l>Non diſſolvendo firmabo foedera nexu,</l>
+               <l>Inque domum ſponſi trepidantem pronuba dueam.</l>
+               <l>In coelis, decimo cum Luna refulſerit orbe,</l>
+               <l>Vt Drommontiades genibus conſidere patris</l>
+               <l>Poſſit, &amp; haeredem tantae promittere genti,</l>
+               <l>Aetate &amp; viridi, formaeque manente decore</l>
+               <l>Viven do ſuperent hic Neſtora, &amp; illa Sybillam.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:19748:7"/>
+            <!-- PDF PAGE 35 -->
+         </div>
+      </body>
+   </text>
+</TEI>
